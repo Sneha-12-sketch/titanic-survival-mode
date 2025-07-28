@@ -19,3 +19,9 @@ A beginner machine learning project that predicts Titanic passenger survival usi
 
 ## Output Example
 Passenger: John Smith | Prediction: Survived | Sitara says: "Oof! This one's lucky. Impressive for a John!"
+
+## How to RUN
+In terminal, within project structure
+> cd src
+> python model.py
+> python predict.py

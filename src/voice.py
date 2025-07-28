@@ -13,7 +13,10 @@ def sitara_response(name, prediction):
         "Survived like a boss.",
         "Oh yes, they lived to spill the tea.",
         "This one danced their way to safety.",
-        "They found the lifeboat and a happy ending."
+        "They found the lifeboat and a happy ending.",
+        "Oof! This one's lucky. Impressive!",
+        "This one dodged the iceberg like a pro.",
+        "They must have had a guardian angel on board."
     ]
 
     sassy_sunk = [
@@ -21,7 +24,10 @@ def sitara_response(name, prediction):
         "Down with the ship... tragically.",
         "They had no plot armor today.",
         "Gone with the waves." ,
-        "This one didn't make the sequel."
+        "This one didn't make the sequel.",
+        "Sunk like a stone, bless their heart.",
+        "Nope, this one's doomed.",
+        "They must have missed the lifeboat drill."
     ]
 
     if prediction == 1:
